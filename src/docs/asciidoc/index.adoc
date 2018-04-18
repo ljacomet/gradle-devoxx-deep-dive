@@ -10,7 +10,7 @@ ifndef::sourcedir[:sourcedir: ../java]
 :title-slide-transition-speed: fast
 :icons: font
 
-= : Je passe à Gradle Maturité, performance et plaisir!
+= : Je passe à Gradle - Maturité, performance et plaisir!
 
 Cédric Champeau (@CedricChampeau), Gradle Inc.
 
